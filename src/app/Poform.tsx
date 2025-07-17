@@ -30,7 +30,7 @@ export default function Poform(){
       </div>
 
       {/* PO Main Section */}
-      <div className="bg-white border border-black rounded-md p-4 space-y-6 overflow-x-auto">
+      <div className="bg-white border border-gray-300 rounded-md p-4 space-y-6 overflow-x-auto">
         {/* Grid with 2 Columns */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-0 border border-black ">
           {/* Left Column */}
