@@ -169,8 +169,10 @@ export default function Poform(){
                 </tr>
               ))}
             </tbody>
-          </table>
-          <p className="px-4 py-2 text-sm ">Total Value in Words: Zero Only</p>
+          </table>  
+        </div>
+        <div className="border border-black bg-white text-left text-xs font-semibold p-2">
+          Totals Value in Words : <span className="font-normal">Zero Only</span>
         </div>
 
         {/* Terms and Footer */}
