@@ -179,8 +179,9 @@ export default function Poform(){
           <p className="font-semibold">Terms of Payment:</p>
           <p>100% within 30 Days from the Date of Invoice</p>
           <p className="font-semibold">Delivery Schedule:</p>
-          <p className="font-semibold">Shipping Instructions:</p>
+          <p className="font-semibold py-2">Shipping Instructions:</p>
           <p className="font-semibold">Pre Shipment Documentation:</p>
+          <p className="">The following is required defore of material.</p>
           <ol className="list-decimal list-inside">
             <li>Commercial Invoice</li>
             <li>Packing List</li>
@@ -221,7 +222,7 @@ export default function Poform(){
           Regd. office: BILAKHIA HOUSE, SURVEY NO 135/139, MUKTANAND MARG, CHALA, Vapi - 396191 (24-Gujarat), India, Phone No: 0260-3052100
         </div>
 
-        <div className="text-[10px] py-2 text-right">FMT/MM/PUR/003.issue No.03.Rev.NO.01</div>
+        <div className="text-[10px] py-2 text-right">FMT/MM/PUR/003.Issue No.03.Rev.NO.01</div>
       </div>
     </div>
   );
